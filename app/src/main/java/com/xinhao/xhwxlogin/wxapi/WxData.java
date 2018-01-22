@@ -42,8 +42,8 @@ public class WxData {
      *
      *
      */
-    public static final String WEIXIN_APP_ID = "wxd806f2b48efb3eb3";
-    public static final String APP_SECRET = "61b3537ebf50a93a242a1535782dbe97";
+    public static final String WEIXIN_APP_ID = "";
+    public static final String APP_SECRET = "";
 
     /**
      * 固定的
