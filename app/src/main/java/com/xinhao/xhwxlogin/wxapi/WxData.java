@@ -34,7 +34,7 @@ public class WxData {
      *       android:name=".wxapi.WXEntryActivity"
      *       android:exported="true"
      *       android:label="WXEntryActivity" />
-     *
+     * 2.必须是   你的包名.wxapi
      *   如果你的所有信息填写正确,还是掉不起来微信,那就可能是微信服务器问题,请稍等3-5分钟,在尝试调用,否则就重复以上选项
      *   大兄弟,记得细心一点哟~~~
      *
